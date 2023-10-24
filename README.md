@@ -1,6 +1,6 @@
 # Newborn-Weight-Prediction-using-Machine-Learning
 
-In this machine learning project, I use Ridge Regression and other algorithms to predict newborn weight based on essential characteristics. The goal is to build a regression model that accurately explains newborn weight and generates predictions for a test dataset. Evaluation is performed using the Mean Absolute Percentage Error (MAPE) metric.
+In this machine learning project, I use Ridge Regression to predict newborn weight based on essential characteristics. The goal is to build a regression model that accurately explains newborn weight and generates predictions for a test dataset. Evaluation is performed using the Mean Absolute Percentage Error (MAPE) metric.
 
 My first steps involve thorough Data Preprocessing and Exploratory Data Analysis (EDA) to ensure the dataset's quality and glean valuable insights. 
 During the Data Preprocessing phase, i cleaned the data, handled missing values, and performed feature engineering. This step is critical for ensuring the dataset is consistent, reliable, and ready for modeling. By addressing missing information and engineering relevant features, we enhance the dataset's suitability for machine learning algorithms.
